@@ -1,3 +1,4 @@
+//Manage the inventory of items in the warehouse,allowing uses to add,remmove,update,search and display items in the inventory.
 import java.util.*;
 public class Inventory {
     private HashMap<String, Item> items;
